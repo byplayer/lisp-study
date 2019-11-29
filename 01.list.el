@@ -1,1 +1,0 @@
-'(rose violet daisy buttercup)
